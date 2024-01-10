@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
@@ -18,7 +19,7 @@ function App() {
           </p>
         </div>
         <div className="info-card">
-          <img src="https://media.istockphoto.com/id/842857296/es/foto/joven-bicicleta-bmx-rider.jpg?s=612x612&w=0&k=20&c=d0OZ4H8l0cp5E7k52_t7H6aRlXS-vzxdbvg1a_p_HNw=" alt="Bicicleta Exploración" />
+          <img src="https://www.sport.es/bicio/wp-content/uploads/2022/02/bikepacking.jpg" alt="Bicicleta Exploración" />
           <h2>Explora el Mundo en Bicicleta</h2>
           <p>
             Las bicicletas no solo son un medio de transporte, sino también una forma de explorar la naturaleza,
